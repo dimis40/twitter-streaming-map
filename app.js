@@ -34,10 +34,10 @@ io.sockets.on('connection', function (socket) {
  ***********************************/
 
 var twit = new twitter({
-  consumer_key: twitter_user_key,
-  consumer_secret: twitter_user_secret,
-  access_token_key: twitter_key,
-  access_token_secret: twitter_secret
+  consumer_key: '3BkHVdNy8NsGOQbUWkuA',
+  consumer_secret: 'ERRaBPabpnNz2fBlMoqBKetKfUO8jTquLGGjB5c',
+  access_token_key: '146704189-UPRZb9yvLvcYq2kYNfKkayKfAs81nmU6B03ugaMc',
+  access_token_secret: 'ZgHoSs2rLJhEo6IkxI15KZTVrjAJOcqVwAunexLk4'
 });
 
 
